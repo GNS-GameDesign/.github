@@ -9,5 +9,6 @@ This is the official organization for the Great Neck South High School <strong>G
 <img src="https://github.com/GNS-GameDesign/random-stuffs/blob/main/GameDesignGoofyLogo.png?raw=true" width=278 />
   <br/><br/>
   <kbd>2022-23</kbd> | <kbd>2023-24</kbd>
+  <br/>
+ <kbd align="center"> <a href="https://discord.gg/dZ2q3gaPjB"><strong>Discord</strong></a></kbd>
 </p>
-
